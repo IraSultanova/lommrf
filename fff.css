@@ -3,16 +3,16 @@
   }
   body {
   font-family: `Open Sans`, sans-serif;
-  background: linear-gradient(120deg, MediumSlateBlue, BlueViole, pink);
+  background: linear-gradient(120deg, #7B68EE, #8A2BE2, #FFC0CB);
   }
   a {
-  color: white;
+  color: #191970;
   }
   a:visited {
-  color: blue;
+  color: #9ACD32;
   }
   a: hover {
-  color: red;
+  color: #FF0000;
   }
   ul {
   list-style: none;
@@ -76,7 +76,7 @@
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: red;
+  color: #FF0000;
   cursor: pointer;
   transition: .3s;
 }
@@ -89,7 +89,7 @@
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: pink;
+  background-color: #FFC0CB;
 }
 .flat-page .content .container {
   display: flex;
@@ -131,7 +131,7 @@
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: blue;
+  background-color: #9ACD32;
 }
 .flat-page .content .image img {
   max-width: 70%;
