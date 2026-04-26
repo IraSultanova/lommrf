@@ -164,7 +164,7 @@ width: 100px;
 
 .container .card a:hover span {
 
-	display: block;
+	display: inline-block;
 
 	transform: scale(0.98);
 
